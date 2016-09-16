@@ -10,3 +10,5 @@ Editing file now.
 Adding new line.
 
 Joey's new line.
+
+Joey has ssh configured and added this line
