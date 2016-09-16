@@ -15,3 +15,4 @@ Joey has ssh configured and added this line
 
 Adding yet another line to the file by shawn
 
+Testing proper git user
